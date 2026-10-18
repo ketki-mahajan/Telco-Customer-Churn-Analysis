@@ -186,13 +186,20 @@ Specific business conclusions should be based on the results observed in the dat
 4. Download the `.pbix` file from the `Power bi` folder.
 5. Open the dashboard in Power BI Desktop to explore its visuals and filters.
 
-## 👩‍💻 Author
+## ✅ Conclusion
 
-**Ketki Mahajan**
+This project demonstrates how SQL and Power BI can be used together to analyze customer churn and explore customer behavior in the telecommunications industry.
 
-- **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/in/ketki-mahajan-3484973b9/)
-- **GitHub:** [View GitHub Profile](https://github.com/ketki-mahajan)
+SQL supports data exploration and customer-level analysis, while Power BI transforms the results into an interactive dashboard with key performance indicators and filters for exploring churn across different customer segments.
 
----
+The project strengthened my practical skills in data analysis, SQL querying, KPI reporting, and dashboard development. It also demonstrates how data visualization can help businesses investigate customer retention patterns and make informed decisions.
 
-*This project was created for data analytics practice and portfolio demonstration.*
+**Key takeaway:** Turning customer data into meaningful insights can help organizations better understand churn patterns and identify opportunities for further retention analysis.
+
+
+## 👩‍💻 About Me
+
+**Ketki Mahajan**  
+Aspiring Data Analyst | Python | SQL | Power BI
+
+[LinkedIn](https://www.linkedin.com/in/ketki-mahajan-3484973b9/) · [GitHub](https://github.com/ketki-mahajan)
