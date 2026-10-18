@@ -51,6 +51,14 @@ Telco-Customer-Churn-Analysis/
 └── README.md
 ```
 
+## 📁 Dataset
+
+The dataset used for this project is available in the `Dataset` folder.
+
+[**View Telco Customer Churn Dataset**](Dataset/Telco_Customer_Churn.csv)
+
+The data contains customer and service-related information used to explore churn patterns and customer behavior.
+
 ## 📊 Power BI Dashboard
 
 The Power BI dashboard provides an interactive overview of customer churn, helping explore customer retention, service usage, and customer-related metrics.
@@ -150,14 +158,6 @@ Depending on the queries included in the SQL script, techniques may include:
 ### 📄 SQL Script
 
 [**View Telco Customer Churn SQL Analysis**](SQL/Telco_Customer_Churn.sql)
-
-## 📁 Dataset
-
-The dataset used for this project is available in the `Dataset` folder.
-
-[**View Telco Customer Churn Dataset**](Dataset/Telco_Customer_Churn.csv)
-
-The data contains customer and service-related information used to explore churn patterns and customer behavior.
 
 ## 📈 Key Business Questions
 
